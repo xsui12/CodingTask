@@ -1,5 +1,5 @@
-### please replace "from", "to", "username", "password" with real account information in EmailService.java, in order for the email service to work.
-### please use [this link](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4MHU7U4Gc-rC8AA0BRuwXOs_gnks3Zcw5232gACSXhIyCpar_ZBS_f7t9-IJeJadDjX4fjpwSsGEPKe0nnvn_5_3lB_Iw) to enable gmail to receive and send email notifications.
+### Replace "from", "to", "username", "password" with real account information in EmailService.java, in order for the email service to work.
+### Use [this link](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4MHU7U4Gc-rC8AA0BRuwXOs_gnks3Zcw5232gACSXhIyCpar_ZBS_f7t9-IJeJadDjX4fjpwSsGEPKe0nnvn_5_3lB_Iw) to enable gmail to receive and send email notifications.
 ## Step 1: Build an Orders Service
 1. Build a service that’s able to receive simple orders of shopping goods from the
 command line
